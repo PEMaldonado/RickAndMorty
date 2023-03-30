@@ -1,0 +1,27 @@
+Para desarrollar una página de Rick y morti tenemos que crear lo siguiente:
+
+- REDUX: 
+.Actions
+.Reducer
+.Store
+
+- REACT:
+Componentes:
+Si queremos usar module.css --> usar carpetas
+Sino directamente los archivos
+
+
+. Barra de navegacion
+. Buscador
+. Formulario
+. Creador de cartas
+. Carta
+. Detalle de la carta
+-- React-Redux --
+. Favoritos
+
+JAVASCRIPT: 
+
+.App
+.Index
+.validation
